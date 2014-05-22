@@ -1,4 +1,4 @@
 weblanrtc
 =========
 
-Web Lan RTC
+Web Lan RTC - a realtime "Local area" network for the Web
