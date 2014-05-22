@@ -1,5 +1,7 @@
 (function() {
 
-  	//	awesome code goes here! //
+	// ---
+  	// awesome code goes here!
+  	// ---
 
 })();
