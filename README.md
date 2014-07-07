@@ -1,4 +1,4 @@
-weblanrtc
-=========
+WebRTC Wrapper
+==============
 
-Web Lan RTC - a realtime "Local area" network for the Web
+WebRTC Wrapper - a simple WebRTC data channel wrapper
