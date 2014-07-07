@@ -1,4 +1,4 @@
-webRTC Wrapper
+WebRTC Wrapper
 ==============
 
-webRTC Wrapper - a realtime "Local area" network for the Web
+WebRTC Wrapper - a realtime "Local area" network for the Web
